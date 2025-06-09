@@ -21,9 +21,7 @@ Table of Contents
       * [Formatting Each Read Letter](#formatting-each-read-letter)
       * [Excluding Certain Keys](#excluding-certain-keys)
    * [Deploying the Keylogger From the Source Code](#deploying-the-keylogger-from-the-source-code)
-   * [License](#license)
    * [Disclaimer](#disclaimer)
-   * [Acknowledgments](#acknowledgments)
 
 ## Features
   * Lots of comments in each of the source files for the user
